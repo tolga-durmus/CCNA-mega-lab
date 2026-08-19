@@ -64,8 +64,7 @@ The network uses a hierarchical enterprise architecture consisting of:
 ### NAT & Internet Connectivity
 
 - Static NAT
-- Dynamic PAT
-- NAT Pool
+- Dynamic PAT using a NAT pool
 - NAT ACLs
 - WAN Failover
 - Floating Default Route
