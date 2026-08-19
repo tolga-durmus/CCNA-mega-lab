@@ -27,7 +27,6 @@ The network uses a hierarchical enterprise architecture consisting of:
 - VLANs
 - 802.1Q Trunking
 - Native VLAN
-- DTP
 - VTPv2
 - Layer 2 EtherChannel
 - PAgP / LACP
